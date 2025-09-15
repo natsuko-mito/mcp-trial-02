@@ -5,6 +5,7 @@ AWSアップデート情報を取得するMCPサーバープロジェクト
 ## 開発について
 
 このプロジェクトは、2025年09月のSoftware Design特集記事「AI開発が加速 MCPでどう変わる？」をtrialしたものです。
+https://github.com/minorun365/software-design-202509
 
 ## 概要
 
